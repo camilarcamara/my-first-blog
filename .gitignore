@@ -1,6 +1,0 @@
-*.pyc
-
-__pycache__
-myevev
-db.sqlite3
-.DS_Store
